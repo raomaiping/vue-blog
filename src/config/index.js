@@ -2,8 +2,6 @@ module.exports = {
   color_primary: "#303133",
   text_color: "#FFFFFF",
   active_text_color: "#ffd04b",
-
-
   //网页标题
   title: '前端小菜鸟吖',
   //作者信息
@@ -17,6 +15,4 @@ module.exports = {
     github:"https://github.com/raomaiping",
     juejin:"https://juejin.cn/user/588993965598407/activities"
   },
-
-
 }

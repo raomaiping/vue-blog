@@ -78,9 +78,9 @@ export default {
     position: relative;
     padding: 0 10px 40px;
     cursor: pointer;
-    color: #fff;
+    color: #bebbaa;
     &.active {
-      color: #bebbaa;
+      color: #fff;
     }
     .sub-menu {
       position: absolute;
